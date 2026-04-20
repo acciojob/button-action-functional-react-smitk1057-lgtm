@@ -12,7 +12,7 @@ function App() {
       
      
       <button  id ='click' onClick={handleClick}>Click</button>
-      <p id ='para'>{click}</p>
+      <p >{click}</p>
       
     </div>
   );
